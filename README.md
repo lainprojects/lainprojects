@@ -1,5 +1,4 @@
 # hai!
-lainprojects/lainprojects/refs/heads/main/vro.gif
 
 --------------------------------
 
