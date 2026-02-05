@@ -1,5 +1,5 @@
 # hai!
-https://raw.githubusercontent.com/lainprojects/lainprojects/refs/heads/main/vro.gif
+lainprojects/lainprojects/refs/heads/main/vro.gif
 
 --------------------------------
 
